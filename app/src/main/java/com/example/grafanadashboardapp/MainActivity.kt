@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             GrafanaDashboardAPPTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Reiner",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
